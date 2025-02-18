@@ -1,4 +1,4 @@
-from sort_tool.main import main
+from src.main import main
 from io import StringIO
 
 def test_print_lines():
